@@ -6,6 +6,7 @@ public class HelloTest {
 		// TODO Auto-generated method stub
 		System.out.println("master 입니다.");
 		System.out.println("github 입니다.");
+		System.out.println("master2 입니다.");
 	}
 
 }
